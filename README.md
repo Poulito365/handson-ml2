@@ -51,4 +51,5 @@ If you have a working Python 3.5+ environment and git is installed, then an easy
 If you need more detailed installation instructions, or you want to use Anaconda, read the [detailed installation instructions](INSTALL.md).
 
 ## Contributors
-I would like to thank everyone who contributed to this project, either by providing useful feedback, filing issues or submitting Pull Requests. Special thanks go to Haesun Park who helped on some of the exercise solutions, and to Steven Bunkley and Ziembla who created the `docker` directory.
+I would like to thank everyone who contributed to this project, either by providing useful feedback, filing issues or submitting Pull Requests. Special thanks go to Haesun Park who helped on some of the exercise solutions, and to Steven Bunkley and Ziembla who created the `docker` directory. And myself of course!
+
